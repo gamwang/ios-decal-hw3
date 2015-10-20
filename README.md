@@ -3,6 +3,7 @@
 ## Due
 Monday, October 19 at 11:59 PM
 
+
 ## Description
 We've explored quite a bit with iOS development, and learned how to make simple apps. Continuing this trend, we are eventually going to make a full-on iOS Hangman game for our next project. This homework assignment is dealing with some preliminiaries and setting up some of the first steps for creating the Hangman game. Namely, we will be using our new-found UI knowledge to create the View of the game.
 
